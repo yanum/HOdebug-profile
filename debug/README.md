@@ -1,6 +1,7 @@
-#Debug
+# Debug
 
-Aquí hay tres carpetas, cada una con un ejercicio
+Aquí hay tres carpetas, cada una con sus ejercicios. Las respuestas a los ejercicios 
+tienen que estar en esta carpeta, bajo el nombre `respuestas.md`
 
 ## Floating point exception
 
@@ -40,5 +41,3 @@ con valgrind. Describan el error y por qué sucede
 En la carpeta `funny/` hay un código de C. Describan las diferencias de los ejecutables
 al compilar con y sin el flag `-DDEBUG`. ¿De dónde vienen esas diferencias?
 
-Las respuestas a los ejercicios tiene que estar en la carpeta `debug/`, bajo el nombre
-`respuestas.md`

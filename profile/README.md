@@ -1,4 +1,4 @@
-#Profiling
+# Profiling
 
 Este ejercicio es muy libre. Compilen los códigos de C o FORTRAN
 con distintas opciones de optimización (`-O0`, `-O1`, `-O3`) y ejecútenlo con distintas
