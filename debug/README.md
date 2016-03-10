@@ -1,7 +1,11 @@
 # Debug
 
-Aquí hay tres carpetas, cada una con sus ejercicios. Las respuestas a los ejercicios 
+Aquí hay cuatro carpetas, cada una con sus ejercicios. Las respuestas a los ejercicios 
 tienen que estar en esta carpeta, bajo el nombre `respuestas.md`
+
+## Various bugs
+
+En la carpeta `bugs/` hay varios bugs ya hechos y resueltos, con un `Makefile` que los compila todos
 
 ## Floating point exception
 
