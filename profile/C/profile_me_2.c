@@ -12,6 +12,10 @@ int main( int argc, char * argv[] )
   
   size_t dim;
   
+  if  (argc== 1)  {
+    printf ("ningun parametro introducido\n");
+    exit(1);
+  }
   dim = atoi(argv[1]);
  
   a = (double *) malloc( dim * sizeof( double ) );
@@ -50,7 +54,6 @@ int main( int argc, char * argv[] )
   free( a );
   free( b );
   free( c );
-
   return 0;
 }
     

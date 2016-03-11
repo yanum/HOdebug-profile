@@ -12,3 +12,13 @@
     La "solución" anterior, ¿es una solución en el sentido de debugging?
 	No es una solucion en sentido de debugging porque no se modifica el codigo fuente. Una solucion podria ser asignar memoria dinamicamente
 
+VALGRID
+
+$ valgrind ./a.out
+==12469== Memcheck, a memory error detector
+==12469== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==12469== Using Valgrind-3.10.0.SVN and LibVEX; rerun with -h for copyright info
+==12469== Command: ./a.out
+==12469== 
+
+
